@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Libin
-- 👀 I’m interested in Opencv and Microcontrollerd
-- 🌱 I’m currently learning STM32
-- 💞️ I’m looking to collaborate on opencv
+- 🚗 Automotive Systems Expert | 🎯 Aspiring Test Manager
+-With 10+ years of experience in the automotive industry, I've worked across the V-model lifecycle—from requirements to validation.
+- 💞️ I'm passionate about quality, leadership, and building robust testing strategies.
 - 📫 How to reach me libindaniel486@gmail.com
 
 <!---

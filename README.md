@@ -4,7 +4,7 @@
 - 💞️ I'm passionate about quality, leadership, and building robust testing strategies.
 - 📫 How to reach me libindaniel28@gmail.com
 - Linkedin Profile:https://www.linkedin.com/in/libin-babu-daniel-227bbb180/
-- Masters of Technology Project:http://ijvdcs.org/issue.php?issue=ISSUE%207&volume=Volume2&page=1
+- Masters of Technology Project:LTE 4G based OFDM http://ijvdcs.org/issue.php?issue=ISSUE%207&volume=Volume2&page=1
 - 
 
 <!---
